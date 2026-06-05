@@ -16,3 +16,5 @@ jobs:
         with:
           repository: forkymcforkface/xpad-noone
           ghtoken: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+          # Data branch is exposed via GitHub Pages so report links resolve.
+          ghpagesprefix: https://forkymcforkface.github.io/xpad-noone
