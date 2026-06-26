@@ -95,3 +95,13 @@ Ctrl+C to close interactive console sessions when finished.
 
 1. `git format-patch --cover-letter upstream..master`
 2. `git send-email --to xxx *.patch`
+
+# Repository Traffic
+
+Clone and view statistics are collected daily and published as an interactive report (clones, views, referrers, stars/forks over time).
+
+[![Repo stats](https://img.shields.io/badge/repo%20stats-clones%20%26%20views-2088FF?logo=github)](https://forkymcforkface.github.io/xpad-noone/forkymcforkface/xpad-noone/latest-report/report.html)
+
+> 📊 **[View the full clone & traffic report »](https://forkymcforkface.github.io/xpad-noone/forkymcforkface/xpad-noone/latest-report/report.html)**
+
+History accumulates from June 2026 onward (GitHub only retains the trailing 14 days of raw traffic data).
